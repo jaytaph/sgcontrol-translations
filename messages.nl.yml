@@ -529,24 +529,24 @@ Records: Records
 'Are you sure you want to disable the Email service?': 'Are you sure you want to disable the Email service?'
 'Are you sure you want to request the EPP code for this domain?': 'Are you sure you want to request the EPP code for this domain?'
 'Are you sure you want to register this domain?': 'Are you sure you want to register this domain?'
-'Domain Aliases': 'Domain Aliases'
-'Register New Domain': 'Register New Domain'
-'Registering domain, please wait': 'Registering domain, please wait'
-'Registering, please wait': 'Registering, please wait'
-'Domain registration received!': 'Domain registration received!'
-'The domain has been added to the Control Panel': 'The domain has been added to the Control Panel'
+'Domain Aliases': 'Domein Aliases'
+'Register New Domain': 'Registreer Nieuw Domein'
+'Registering domain, please wait': 'Registratie domein, een moment geduld'
+'Registering, please wait': 'Registratie, een moment geduld'
+'Domain registration received!': 'Domein registratie ontvangen!'
+'The domain has been added to the Control Panel': 'Het domein is toegevoegd aan het controle paneel'
 'Attempting to process credit card payment': 'Attempting to process credit card payment'
-'Payment failed': 'Payment failed'
-'Payment accepted!': 'Payment accepted!'
+'Payment failed': 'Betaling mislukt'
+'Payment accepted!': 'Betaling geaccepteerd!'
 '%domain%''s Web Hosting': '%domain%''s Web Hosting'
-'Managing Web Hosting for': 'Managing Web Hosting for'
+'Managing Web Hosting for': 'Beheer Web Hosting for'
 'The Web Hosting service for this domain is disabled. Turn it on if you want to manage Web Hosting setting for this domain.': 'The Web Hosting service for this domain is disabled. Turn it on if you want to manage Web Hosting setting for this domain.'
 'Preview URL': 'Preview URL'
-'Add Domain Alias': 'Add Domain Alias'
-'No Domain aliases': 'No Domain aliases'
-'Add Subdomain': 'Add Subdomain'
-'No subdomains': 'No subdomains'
-'No redirects': 'No redirects'
+'Add Domain Alias': 'Domein Alias toevoegen'
+'No Domain aliases': 'Geen Domein aliases'
+'Add Subdomain': 'Toevoegen Subdomein'
+'No subdomains': 'Geen subdomeinen'
+'No redirects': 'Geen omleiding'
 'Add a protected directory': 'Add a protected directory'
 'Requesting rotation of log file': 'Requesting rotation of log file'
 'Are you sure you want to disable the web service?': 'Are you sure you want to disable the web service?'
@@ -620,11 +620,11 @@ Inbox: Inbox
 'There are no users': 'There are no users'
 'Are you sure you want to remove this user?': 'Are you sure you want to remove this user?'
 'Are you sure you want to reset the password for this user?': 'Are you sure you want to reset the password for this user?'
-'Enable API Key': 'Enable API Key'
-'API Key': 'API Key'
-Key: Key
-Secret: Secret
-'Open New Ticket': 'Open New Ticket'
+'Enable API Key': 'Schakel API sleutel in'
+'API Key': 'API Sleutel'
+Key: Sleutel
+Secret: Geheim
+'Open New Ticket': 'Open Nieuw Ticket'
 'Support Ticket': 'Support Ticket'
 'Support Tickets': 'Support Tickets'
 'support tickets': 'support tickets'
@@ -641,111 +641,111 @@ ticket: ticket
 'Add Reply to Ticket': 'Add Reply to Ticket'
 'Are you sure you want to close this ticket?': 'Are you sure you want to close this ticket?'
 'UI tour': 'UI tour'
-'My Servers': 'My Servers'
+'My Servers': 'Mijn Servers'
 Support: Support
-Logout: Logout
+Logout: Uitloggen
 Profile: Profile
 'API Docs': 'API Docs'
-Billing: Billing
+Billing: Facturatie
 Blog: Blog
 'ServerGrove Website': 'ServerGrove Website'
-Search: Search
-'View Messages (%messages% new messages)': 'View Messages (%messages% new messages)'
-'Search Support': 'Search Support'
-'View Active': 'View Active'
-'View All': 'View All'
+Search: Zoeken
+'View Messages (%messages% new messages)': 'Bekijk berichten (%messages% nieuwe berichten)'
+'Search Support': 'Doorzoek Support'
+'View Active': 'Bekijk actieve'
+'View All': 'Bekijk alle'
 'VPS Services': 'VPS Services'
-Refreshing...: Refreshing...
-manage: manage
-'Add a MongoDB server': 'Add a MongoDB server'
-'Learn more about our MongoDB hosting service': 'Learn more about our MongoDB hosting service'
-here: here
+Refreshing...: Vernieuwen...
+manage: beheer
+'Add a MongoDB server': 'Toevoegen MongoDB server'
+'Learn more about our MongoDB hosting service': 'Leer meer over MongoDB hosting service'
+here: hier
 'MongoDB Services': 'MongoDB Services'
 Shortcuts: Shortcuts
 Disk: Disk
-edit: edit
-'Add System User': 'Add System User'
-'Change timezone': 'Change timezone'
-'Set time zone': 'Set time zone'
-LOADING: LOADING
-Change: Change
-'you should': 'you should'
-'configure your monitors': 'configure your monitors'
-'Alerts History': 'Alerts History'
-'Monitors List': 'Monitors List'
-'Are you sure you want to': 'Are you sure you want to'
-Information: Information
-Diagnostics: Diagnostics
-diagnostics: diagnostics
+edit: bewerk
+'Add System User': 'Toevegen System Gebruiker'
+'Change timezone': 'Verander tijdzone'
+'Set time zone': 'Zet tijd zone'
+LOADING: LADEN
+Change: Verander
+'you should': 'u moet'
+'configure your monitors': 'uw monitors configureren'
+'Alerts History': 'Alarm Geschiedenis'
+'Monitors List': 'Monitors Lijst'
+'Are you sure you want to': 'Weet u zeker dat u'
+Information: Informatie
+Diagnostics: Diagnostiek
+diagnostics: diagnostiek
 'Real Time': 'Real Time'
-'Every Hour': 'Every Hour'
-Announcements: Announcements
-Alerts: Alerts
-'Critical Alerts': 'Critical Alerts'
-Reports: Reports
-'There are no messages in your inbox': 'There are no messages in your inbox'
-'There are no new messages in your inbox': 'There are no new messages in your inbox'
-'Give us some feedback!': 'Give us some feedback!'
+'Every Hour': 'Elk uur'
+Announcements: Mededeling
+Alerts: Alarm
+'Critical Alerts': 'Kritisch Alarm'
+Reports: Rapportages
+'There are no messages in your inbox': 'Er zijn geen berichten in uw inbox'
+'There are no new messages in your inbox': 'Er zijn geen nieuwe berichten in uw inbox'
+'Give us some feedback!': 'Geef ons feedback!'
 'Open a ticket': 'Open a ticket'
-System: System
+System: Systeem
 Monitoring: Monitoring
-'There are no invoices': 'There are no invoices'
-'There are no unpaid invoices': 'There are no unpaid invoices'
-Unpaid: Unpaid
-Paid: Paid
-Cancelled: Cancelled
-Stopped: Stopped
-Running: Running
+'There are no invoices': 'Er zijn geen facturen'
+'There are no unpaid invoices': 'Er zijn geen onbetaalde facturen'
+Unpaid: Onbetaald
+Paid: Betaald
+Cancelled: Geanulleerd
+Stopped: Gestopt
+Running: Draaiend
 N/A: N/A
 'Web Servers': 'Web Servers'
 'DNS Servers': 'DNS Servers'
 'Unix Services': 'Unix Services'
 'Database Servers': 'Database Servers'
-'Programming Languages': 'Programming Languages'
+'Programming Languages': 'Programmeer Talen'
 Frameworks: Frameworks
 'Apache Modules': 'Apache Modules'
 'Virtual Hosts': 'Virtual Hosts'
 'Virtual Host': 'Virtual Host'
-'File Name': 'File Name'
+'File Name': 'Bestands naam'
 'Reset Root Password': 'Reset Root Password'
-'Enter new MySQL root password': 'Enter new MySQL root password'
-'Confirm new password': 'Confirm new password'
-'Force reset - stop the server and start it with the init-file option': 'Force reset - stop the server and start it with the init-file option'
-'The temporary file will be deleted as soon as the reset process is done': 'The temporary file will be deleted as soon as the reset process is done'
-'Store password in': 'Store password in'
-'this allows our CP to access MySQL for management purposes only': 'this allows our CP to access MySQL for management purposes only'
-'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.': 'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.'
-'Please enter a password': 'Please enter a password'
-'Password does not match': 'Password does not match'
-'You are about to change the MySQL root password. Are you sure this is what you want to do?': 'You are about to change the MySQL root password. Are you sure this is what you want to do?'
-'Read more': 'Read more'
-Saving: Saving
-'Extended Status': 'Extended Status'
-'Process List': 'Process List'
-'Server Variables': 'Server Variables'
-'All current and future servers': 'All current and future servers'
-Monthly: Monthly
-Semiannually: Semiannually
-Annually: Annually
+'Enter new MySQL root password': 'Voer een nieuwe MySQL root wachtwoord in'
+'Confirm new password': 'Bevestig nieuwe wachtwoord'
+'Force reset - stop the server and start it with the init-file option': 'Geforceerde herstart - stop de server en start met de init-file optie'
+'The temporary file will be deleted as soon as the reset process is done': 'Het tijdelijk bestand zal verwijderd worden zodra de reset-procedure is afgerond'
+'Store password in': 'Bewaar wachtwoord in '
+'this allows our CP to access MySQL for management purposes only': 'hierdoor kan ons controle paneel MySQL bereiken voor beheer redenen'
+'If you have any applications connecting to MySQL with the root password, these will stop working. You need to update your application configuration with the new password.': 'Indien uw applicaties met de MySQL server verbind via het root wachtwoord, dan zullen deze niet meer werken. U dient uw applicatie configuratie aan te passen met het nieuwe wachtwoord.'
+'Please enter a password': 'Geef een wachtwoord'
+'Password does not match': 'Wachtwoorden komen niet overeen'
+'You are about to change the MySQL root password. Are you sure this is what you want to do?':  'U staat op het punt om het MySQL root wachtwoord te veranderen. Weet u zeker dat u dit wilt doen?'
+'Read more': 'Lees meer'
+Saving: Opslaan
+'Extended Status': 'Uitgebreide Status'
+'Process List': 'Process Lijst'
+'Server Variables': 'Server Variabelen'
+'All current and future servers': 'Alle huidigen en toekomstige servers'
+Monthly: Maandelijks
+Semiannually: Halfjaarlijks
+Annually: Jaarlijks
 online: online
-system: system
-memory: memory
-'disk space': 'disk space'
-Back: Back
+system: systeem
+memory: geheugen
+'disk space': 'disk ruimte'
+Back: Terug
 'Live Stats': 'Live Stats'
-'Adding domain': 'Adding domain'
-'Enable Services': 'Enable Services'
+'Adding domain': 'Toevoegen domein'
+'Enable Services': 'Inschakelen Services'
 'DNS Service': 'DNS Service'
 'Email Service': 'Email Service'
-Domain: Domain
+Domain: Domein
 Expiration: Expiration
 Emails: Emails
 'Add an email account': 'Add an email account'
-'6 characters minimum': '6 characters minimum'
-Off: Off
-On: On
-'CLI path': 'CLI path'
-'ServerGrove Control Panel Mobile': 'ServerGrove Mobile Control Panel'
+'6 characters minimum': 'minimaal 6 karakters'
+Off: Uit
+On: Aan
+'CLI path': 'CLI pad'
+'ServerGrove Control Panel Mobile': 'ServerGrove Mobile Controle Paneel'
 'An internal system error has occurred. We have been notified and we will resolve this problem as soon as possible. Feel free to open a support ticket to follow up with us.': 'An internal system error has occurred. We have been notified and we will resolve this problem as soon as possible. Feel free to open a support ticket to follow up with us.'
 'Invalid invoice number': 'Invalid invoice number'
 'There is no credit card on file. Please enter one now so we can process your credit card.': 'There is no credit card on file. Please enter one now so we can process your credit card.'
@@ -789,41 +789,41 @@ On: On
 'Please enter a subject.': 'Please enter a subject.'
 'Invalid Urgency': 'Invalid Urgency'
 'The ticket has been received.': 'The ticket has been received.'
-'App not found': 'App not found'
-'App not installed': 'App not installed'
-'has been uninstalled.': 'has been uninstalled.'
-'has been installed.': 'has been installed.'
+'App not found': 'Appl niet gevonden'
+'App not installed': 'App niet geinstalleerd'
+'has been uninstalled.': 'is gedeinstalleerd.'
+'has been installed.': 'is geinstalleerd.'
 'Call not allowed': 'Call not allowed'
-'Request has been queued.': 'Request has been queued.'
-'Status updated successfully.': 'Status updated successfully.'
-'File saved.': 'File saved.'
-'Not authenticated': 'Not authenticated'
-'Account is disabled.': 'Account is disabled.'
-'Client not found': 'Client not found'
-'Unauthorized access.': 'Unauthorized access.'
-'Client already has server': 'Client already has server'
-'Client does not have server': 'Client does not have server'
-'Must provide name': 'Must provide name'
-'Client already exists.': 'Client already exists.'
+'Request has been queued.': 'Verzoek is verzonden.'
+'Status updated successfully.': 'Status is correct geupdate.'
+'File saved.': 'Bestand opgeslagen.'
+'Not authenticated': 'Niet geauthenticeerd'
+'Account is disabled.': 'Account is uitgeschakeld.'
+'Client not found': 'Client niet gevonden'
+'Unauthorized access.': 'Ongeauthoriseerde toegang.'
+'Client already has server': 'Client heeft al server'
+'Client does not have server': 'Client heeft geen server'
+'Must provide name': 'Moet naam geven'
+'Client already exists.': 'Client bestaat reeds.'
 'DNS service is not enabled for this domain. Please enable DNS service before trying to manage DNS records.': 'DNS service is not enabled for this domain. Please enable DNS service before trying to manage DNS records.'
-'Record not found': 'Record not found'
-'DNS record has been removed': 'DNS record has been removed'
-'Zone is in read-only mode.': 'Zone is in read-only mode.'
-'SOA record cannot be deleted': 'SOA record cannot be deleted'
-'Host Name and value cannot be the same': 'Host Name and value cannot be the same'
-'Address cannot be empty.': 'Address cannot be empty.'
-'Host Name must be a valid IP4 or IP6 address': 'Host Name must be a valid IP4 or IP6 address'
-'Address must be a valid IP4 address': 'Address must be a valid IP4 address'
-'Address must be a valid IP6 address': 'Address must be a valid IP6 address'
-'TTL must be an number': 'TTL must be an number'
-'Priority can only be configured for mail exchanger DNS records': 'Priority can only be configured for mail exchange DNS records'
-'Priority must be an number': 'Priority must be an number'
-'MX DNS records must have a priority': 'MX DNS records must have a priority'
-'DNS record has been added': 'DNS record has been added'
-'DNS record has been updated': 'DNS record has been updated'
-'No zone found for service.': 'No zone found for service.'
-'Invalid nameserver': 'Invalid nameserver'
-'Domain not found': 'Domain not found'
+'Record not found': 'Record niet gevonden'
+'DNS record has been removed': 'DNS record is verwijderd'
+'Zone is in read-only mode.': 'Zone is in alleen-lezen modus.'
+'SOA record cannot be deleted': 'SOA record kan niet worden verwijderd'
+'Host Name and value cannot be the same': 'Host Name en waarde kunnen niet gelijk zijn'
+'Address cannot be empty.': 'Adres kan niet leeg zijn.'
+'Host Name must be a valid IP4 or IP6 address': 'Host Name moet een geldig IP4 of IP6 adres zijn'
+'Address must be a valid IP4 address': 'Adres moet een geldig IP4 adres zijn'
+'Address must be a valid IP6 address': 'Adres moet een geldig IP6 adres zijn'
+'TTL must be an number': 'TTL moet een nummer zijn'
+'Priority can only be configured for mail exchanger DNS records': 'Prioriteit kan alleen maar worden gegeven voor mail exchange DNS records'
+'Priority must be an number': 'Prioriteit dient een nummer te zijn'
+'MX DNS records must have a priority': 'MX DNS records moet een prioriteit hebben'
+'DNS record has been added': 'DNS record is toegevoegd'
+'DNS record has been updated': 'DNS record is bewerkt'
+'No zone found for service.': 'geen zone gevonden voor service.'
+'Invalid nameserver': 'Ongeldige nameserver'
+'Domain not found': 'Domein niet gevonden'
 'Domain is an alias. Please use domain/deleteAlias': 'Domain is an alias. Please use domain/deleteAlias'
 'Domain is a subdomain. Please use domain/deleteSubdomain': 'Domain is a subdomain. Please use domain/deleteSubdomain'
 'Domain has been removed': 'Domain has been removed'
@@ -864,26 +864,26 @@ On: On
 'There is no pricing information for this TLD and period.': 'There is no pricing information for this TLD and period.'
 'Email service is not enabled. Please enable Email service before trying to manage email accounts.': 'Email service is not enabled. Please enable email service before trying to manage email accounts.'
 'Username not found': 'Username not found'
-'Email Account has been removed': 'Email Account has been removed'
-'Autoresponder has been enabled': 'Autoresponder has been enabled'
-'Autoresponder has been disabled': 'Autoresponder has been disabled'
-'Email Account has been enabled': 'Email Account has been enabled'
-'Email Account has been disabled': 'Email Account has been disabled'
-'Email Account has been added': 'Email Account has been added'
-'Email Account has been updated': 'Email Account has been updated'
-'Password confirmation does not match': 'Password confirmation does not match'
-'New password must be at least 6 characters long.': 'Must be at least 6 characters long.'
-'Must provide a password.': 'Must provide a password.'
-'Username must contain letters, numbers or dot only.': 'Username must contain letters, numbers or dot only.'
-'Username already exists.': 'Username already exists.'
-'Redirect has been added': 'Redirect has been added'
-'Redirect has been removed': 'Redirect has been removed'
-'Alias has been added': 'Alias has been added'
-'An address %name% already exists': 'An address %name% already exists'
-'Alias %name% already exists': 'Alias %name% already exists'
-'Alias %name% does not exist': 'Alias %name% does not exist'
-'API Key is disabled': 'API Key is disabled'
-'Invalid API Key': 'Invalid API Key'
+'Email Account has been removed': 'Email Account is verwijderd'
+'Autoresponder has been enabled': 'Autoresponder is ingeschakeld'
+'Autoresponder has been disabled': 'Autoresponder is uitgeschakeld'
+'Email Account has been enabled': 'Email Account is ingeschakeld'
+'Email Account has been disabled': 'Email Account is uitgeschakeld'
+'Email Account has been added': 'Email Account is toegevoegd'
+'Email Account has been updated': 'Email Account is bijgewerkt'
+'Password confirmation does not match': 'Wachtwoorden komen niet overeen'
+'New password must be at least 6 characters long.': 'Moet ten minste 6 karakters zijn.'
+'Must provide a password.': 'Moet een wachwoord opgeven.'
+'Username must contain letters, numbers or dot only.': 'Gebruikersnaam moet bestaan uit letter, nummers of een punt.'
+'Username already exists.': 'Gebruikersnaam bestaat reeds.'
+'Redirect has been added': 'Omleiding is toegevoegd'
+'Redirect has been removed': 'Omleiding is verwijderd'
+'Alias has been added': 'Alias is toegevoegd'
+'An address %name% already exists': 'Een adres genaamd %name% bestaat reeds'
+'Alias %name% already exists': 'Alias %name% bestaat reeds'
+'Alias %name% does not exist': 'Alias %name% bestaat niet'
+'API Key is disabled': 'API sleutel is uitgeschakeld'
+'Invalid API Key': 'Ongeldige API sleutel'
 'Message not found': 'Message not found'
 'Must specify a database name': 'Must specify a database name'
 'Database named "%name%" created successfully!': 'Database named "%name%" created successfully!'
@@ -891,10 +891,10 @@ On: On
 'Collection named "%name%" created successfully!': 'Collection named "%name%" created successfully!'
 'Collection named "%name%" dropped successfully!': 'Collection named "%name%" dropped successfully!'
 'Cloned collection named "%name%" to "%new%" successfully!': 'Cloned collection named "%name%" to "%new%" successfully!'
-'Index named "%name%" created successfully!': 'Index named "%name%" created successfully!'
-'Index named "%name%" deleted successfully!': 'Index named "%name%" deleted successfully!'
-'Must specify a username': 'Must specify a username'
-'Must specify a password': 'Must specify a password'
+'Index named "%name%" created successfully!': 'Index genaamd "%name%" successvol toegevoegd!'
+'Index named "%name%" deleted successfully!': 'Index genaamd "%name%" successvol verwijderd!'
+'Must specify a username': 'Moet een gebruikersnaam opgeven'
+'Must specify a password': 'Moet een wachtwoord opgeven'
 'Created %readonly% user named "%name%" successfully!': 'Created %readonly% user named "%name%" successfully!'
 'Updated %readonly% user named "%name%" successfully!': 'Updated %readonly% user named "%name%" successfully!'
 'Deleted user named "%name%" successfully!': 'Deleted user named "%name%" successfully!'
